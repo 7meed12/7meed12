@@ -1,6 +1,6 @@
 - 👋 Hi, I’m abulhameed khaled
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React.Js
+- 🌱 I’m currently learning Asp.Net
 
 
 <!---
